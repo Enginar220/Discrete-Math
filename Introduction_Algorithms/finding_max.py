@@ -13,3 +13,5 @@ x = [51,12,321,3,0,12,12,123]
 
 result = max_find(x)
 print(result)
+#output:321
+
