@@ -1,5 +1,10 @@
 
 
+"""
+Write an algorithm that calculates the standart deviation of the argumnet(which stands for sample)
+"""
+
+
 def st_sample(samp):
 
     # type(samp)==list

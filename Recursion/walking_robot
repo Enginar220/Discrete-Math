@@ -1,13 +1,11 @@
 """
-
 Imagine a situation where we have some robot that can only walk 1 or 2 meters per step.
-We want to write a function that takes the length of the way that robot will cover and returns the number of different 
+We want to write a function(f) that takes the length of the way that robot will cover as an argument and returns the number of different 
 ways that the robot can cover the given road.
 
 f(30)=?
 
 What's the time complexity of your function ?
-
 """
 
 def walk_rob(length):
@@ -20,4 +18,5 @@ def walk_rob(length):
 
 result = walk_rob(30)
 
-print(result)
+print(result)#1346269
+

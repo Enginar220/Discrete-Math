@@ -12,13 +12,5 @@ def gcd(num1,num2):
     The greatest common divisor of the given two numbers.
     
     """
-
-    if (num1%num2 == 0):
-        print(num2)
-    elif (num2%num1 == 0):
-        print(num1)
-    else:
-        c = max(num1,num2)
-        d = min(num1,num2)
-
+    
     
