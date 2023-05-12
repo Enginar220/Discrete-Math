@@ -23,6 +23,6 @@ Written function is based on the following Theorem;
 
 Let p be an integer greater than 1,then,
 
-(p is not prime) if and only if (There exits a quotient d such that d|p and 2=<d=<squared(p)) 
+(p is not prime) if and only if (There exits a quotient d such that d|p and 2=<d=<square_root(p)) 
 """
 
